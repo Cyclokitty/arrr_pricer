@@ -3,7 +3,7 @@ Arrr Pricer
 
 An easy, pirate-themed pricer for ye and your crew to figure out the cost of a job that you run from the terminal command-line.
 
-##Get a price:
+# Get a price:
 
 ```
 
@@ -11,13 +11,13 @@ node ./index.js -p 1299.99 -s 3 -m 'food'
 
 ```
 
-##The Basics:
+## The Basics:
 
   * -p = Price
   * -s = number of Staff persons needed
   * -m = type of Merchandise
 
-##The Details
+## The Details
 
   * give a base 5% cost
   * provide for number of employees needed to complete order
