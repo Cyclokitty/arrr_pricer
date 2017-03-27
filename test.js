@@ -1,4 +1,5 @@
 const expect = require('chai').expect;
+const yargs = require('yargs');
 const price = require('./pricer');
 
 describe('Correct total made', () => {

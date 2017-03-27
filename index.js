@@ -34,4 +34,8 @@ const argv = yargs
 
   let pirateTalk = randomPick(piratePhrase);
 
-  console.log(pirateTalk() + "yer booty is $" + price.pricer(cost,staff,materials) + " in dubloons!");
+  function output() {
+    console.log(pirateTalk() + "yer booty is $" + price.pricer(cost,staff,materials) + " in dubloons!");
+  }
+
+  output();
