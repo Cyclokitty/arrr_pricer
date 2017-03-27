@@ -3,7 +3,7 @@ Arrr Pricer
 
 An easy, pirate-themed pricer for ye and your crew to figure out the cost of a job that you run from the terminal command-line.
 
-# Get a price:
+## Get a price:
 
 ```
 
