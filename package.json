@@ -1,0 +1,16 @@
+{
+  "name": "arrr_pricer",
+  "version": "1.0.0",
+  "description": "command line pirate themed pricing app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Laura Veee <droolaquarium@gmail.com> (https://cyclokitty.github.io/)",
+  "license": "MIT",
+  "dependencies": {
+    "unique-random-array": "^1.0.0",
+    "yargs": "^7.0.2"
+  },
+  "devDependencies": {}
+}
